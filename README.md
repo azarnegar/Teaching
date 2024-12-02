@@ -1,3 +1,3 @@
 # Teaching
 Collection of my teaching materials
-[cloud Computing](azarnegar/Teaching/cloud)
+[cloud Computing](https://github.com/azarnegar/Teaching/tree/master/Cloud)
